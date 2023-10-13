@@ -29,7 +29,7 @@ detector.detect_and_count_coins()
 detector.display_result()
 ```
 
-##Future Improvements
+## Future Improvements
 
 1. **Improved Accuracy:** Fine-tune the coin detection algorithm to increase accuracy, especially in challenging lighting conditions.
 
