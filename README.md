@@ -27,3 +27,12 @@ detector.detect_and_count_coins()
 
 # Display the result
 detector.display_result()
+```
+
+##Future Improvements
+
+1. **Improved Accuracy:** Fine-tune the coin detection algorithm to increase accuracy, especially in challenging lighting conditions.
+
+2. **Real-Time Detection:** Implement real-time coin detection using a webcam or live camera feed for dynamic coin counting.
+
+3. **Currency Recognition:** Extend the project to recognize and classify different coin denominations based on their size and features.
